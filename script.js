@@ -37,6 +37,6 @@ let calculateArray = (value)=>{
     else {
         let result = eval(cleanValues);
         display.textContent = result
-        value =[]
+        values =[]
     }
 }
